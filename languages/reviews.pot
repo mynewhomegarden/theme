@@ -1,0 +1,3745 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Reviews\n"
+"POT-Creation-Date: 2017-12-28 20:17+0100\n"
+"PO-Revision-Date: 2017-12-28 20:17+0100\n"
+"Last-Translator: \n"
+"Language-Team: DJMiMi <djmimiweb@gmail.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.1\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;esc_html__;esc_html_e;esc_attr__;esc_attr_e\n"
+"X-Poedit-SearchPath-0: C:\\wamp64\\www\\reviews\\wp-content\\themes\\reviews\n"
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/404.php:9
+msgid "404"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/404.php:10
+msgid "Page not found"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/404.php:12
+msgid "Page you are looking for is no longer available. Use search form bellow to find what you are looking for"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/comments.php:20
+msgid "You must be logged in to post reviews. Login "
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/comments.php:20
+msgid "here"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/comments.php:31
+msgid "You already reviewed this product/service."
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/comments.php:35
+msgid "You are not allowed to review your own product/service review."
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/comments.php:56
+msgid "No User Reviews"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/comments.php:56
+msgid "1 User Review"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/comments.php:56
+msgid "% User Reviews"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/comments.php:58
+msgid "No Comments"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/comments.php:58
+msgid "1 Comment"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/comments.php:58
+msgid "% Comments"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/comments.php:91
+msgid "Reviews page: "
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/comments.php:91
+msgid "Comment page: "
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/comments.php:107
+msgid "Leave Review"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/comments.php:109
+msgid "Leave Comment"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/comments.php:118
+msgid "Add Review"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/comments.php:127
+msgid "Very Bad"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/comments.php:128
+msgid "Bad"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/comments.php:129
+msgid "Good"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/comments.php:130
+msgid "Very Good"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/comments.php:131
+msgid "Excellent"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/comments.php:147
+msgid "Send Review"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/comments.php:147
+msgid "Send Comment"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/comments.php:151
+msgid "Your Name"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/comments.php:155
+msgid "Your Email"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/comments.php:161
+msgid "Your Comment"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/comments.php:164
+msgid "or cancel reply"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/functions.php:86
+msgid "Reinstall Social Connect plugin ( Delete it and theme will offer you to install it again )"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/functions.php:96
+msgid ""
+"Reinstall Reviews Custom Post Types plugin ( Delete it and theme will offer you to install it again ) After go to Settings -"
+"> Permalinks and resave them ( click Save Changes button )"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/functions.php:109
+msgid "Redux Options"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/functions.php:118
+msgid "Smeta"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/functions.php:128
+msgid "User Avatar"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/functions.php:137
+msgid "Reviews Custom Post Types"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/functions.php:147
+msgid "Social Connect"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/functions.php:157
+msgid "MCE Table Buttons"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/functions.php:183
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/class-tgm-plugin-activation.php:334
+msgid "Install Required Plugins"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/functions.php:184
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/class-tgm-plugin-activation.php:335
+msgid "Install Plugins"
+msgstr ""
+
+#. translators: %s: plugin name.
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/functions.php:185
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/class-tgm-plugin-activation.php:337
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/functions.php:186
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/class-tgm-plugin-activation.php:340
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/functions.php:197
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/class-tgm-plugin-activation.php:392
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/functions.php:198
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/class-tgm-plugin-activation.php:394
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/class-tgm-plugin-activation.php:3244
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/functions.php:199
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/functions.php:238
+msgid "Blog Sidebar"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/functions.php:244
+msgid "Appears on the right side of the blog single page."
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/functions.php:248
+msgid "Reviews Sidebar"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/functions.php:254
+msgid "Appears on the right side of the reviews single pages."
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/functions.php:258
+msgid "Reviews Search Sidebar"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/functions.php:264
+msgid "Appears on the left side of the reviews search page."
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/functions.php:268
+msgid "Page Left Sidebar"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/functions.php:274
+msgid "Appears on the left side of the page."
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/functions.php:278
+msgid "Page Right Sidebar"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/functions.php:284
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/functions.php:294
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/functions.php:304
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/functions.php:314
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/functions.php:325
+msgid "Appears on the right side of the page."
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/functions.php:288
+msgid "Bottom Sidebar 1"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/functions.php:298
+msgid "Bottom Sidebar 2"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/functions.php:308
+msgid "Bottom Sidebar 3"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/functions.php:319
+msgid "Bottom Sidebar 4"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/functions.php:427
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/theme-options.php:292
+msgid "READ MORE"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/functions.php:535
+msgid "Top Navigation"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/functions.php:619
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/functions.php:2033
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/functions.php:2052
+msgid "All fields are required"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/functions.php:686
+msgid "Input url to be embeded"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/functions.php:692
+msgid "Standard Post Information"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/functions.php:700
+msgid "Add images for the gallery"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/functions.php:707
+msgid "Gallery Post Information"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/functions.php:716
+msgid "Input URL for the audio"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/functions.php:722
+msgid "Select type of the audio"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/functions.php:725
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/functions.php:749
+msgid "Embed"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/functions.php:726
+msgid "Direct Link"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/functions.php:732
+msgid "Audio Post Information"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/functions.php:740
+msgid "Input video URL"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/functions.php:745
+msgid "Select video type"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/functions.php:748
+msgid "Self Hosted"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/functions.php:755
+msgid "Video Post Information"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/functions.php:763
+msgid "Input the quotation"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/functions.php:768
+msgid "Input the quoted person's name"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/functions.php:774
+msgid "Quote Post Information"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/functions.php:782
+msgid "Input link"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/functions.php:788
+msgid "Link Post Information"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/functions.php:796
+msgid "Review Clicks"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/functions.php:802
+msgid "Add images"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/functions.php:808
+msgid "Add Tab"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/functions.php:814
+msgid "Tab Title"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/functions.php:819
+msgid "Tab Content"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/functions.php:826
+msgid "Product / Service Pros"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/functions.php:832
+msgid "Product / Service Cons"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/functions.php:838
+msgid "Scores"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/functions.php:843
+msgid "Name Of Criteria"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/functions.php:849
+msgid "Criteria Score"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/functions.php:864
+msgid "Reviews Details"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/functions.php:872
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/shortcodes/button.php:73
+msgid "Button Link"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/functions.php:878
+msgid "Call To Action Button"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/functions.php:886
+msgid "Stores"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/functions.php:891
+msgid "Store Link"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/functions.php:896
+msgid "Store Name"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/functions.php:901
+msgid "Store Logo"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/functions.php:906
+msgid "Price"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/functions.php:911
+msgid "Sale Price"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/functions.php:916
+msgid "Product / Service Link"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/functions.php:925
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/reviews-sidebar.php:66
+msgid "Where To Buy"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/functions.php:1344
+msgid "Required fields are marked with *."
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/functions.php:1349
+msgid "E-mail address is not valid."
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/functions.php:1355
+msgid "Name: "
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/functions.php:1356
+msgid "Email: "
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/functions.php:1357
+msgid "Message: "
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/functions.php:1358
+msgid "Phone: "
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/functions.php:1364
+msgid "Your message was successfully submitted."
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/functions.php:1369
+msgid "Unexpected error while attempting to send e-mail."
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/functions.php:1399
+msgid "There was an error contacting the API, please try again."
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/functions.php:1405
+msgid "You have successuffly subscribed to the newsletter."
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/functions.php:1410
+msgid "API data are not yet set."
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/functions.php:1414
+msgid "Email is empty or invalid."
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/functions.php:1454
+msgid "@"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/functions.php:1464
+msgid "Reply"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/functions.php:1489
+msgid "<< Show Less"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/functions.php:1489
+msgid ">> Show More"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/functions.php:1522
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/theme-options.php:103
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/single-review.php:202
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/single-review.php:245
+msgid "Overall"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/functions.php:1559
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/functions.php:1589
+msgid "This post is password protected. To view it please enter your password below:"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/functions.php:1590
+msgid "Password:"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/functions.php:1609
+msgid "ID"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/functions.php:1610
+msgid "Author Rate"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/functions.php:1611
+msgid "User Rate"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/functions.php:1612
+msgid "Clicks"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/functions.php:1802
+msgid "No Icon"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/functions.php:1829
+msgid "AUTHOR RATE"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/functions.php:1837
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/functions.php:1840
+msgid "USERS RATE"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/functions.php:1957
+msgid "You have registered. Email with the confirmation link is sent on the email address you have provided."
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/functions.php:1960
+msgid "There was an error trying to send confirmation link to you"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/functions.php:1965
+msgid "There was an error trying to register you"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/functions.php:1969
+msgid "Email is already registered"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/functions.php:1973
+msgid "Username is already taken"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/functions.php:1977
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/functions.php:2088
+msgid "Passwords do not match"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/functions.php:1981
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/functions.php:2152
+msgid "Email is invalid"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/functions.php:1985
+msgid "Username is empty"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/functions.php:1989
+msgid "Captcha is wrong."
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/functions.php:1993
+msgid "You need to accept terms & conditions"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/functions.php:1997
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/functions.php:2056
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/functions.php:2104
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/functions.php:2156
+msgid "You do not have permission for this action"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/functions.php:2027
+msgid "Invalid username"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/functions.php:2030
+msgid "Invalid password"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/functions.php:2039
+msgid "You have been logged in, now you will be redirected,"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/functions.php:2044
+msgid "Account is not active"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/functions.php:2048
+msgid "Username does not exists"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/functions.php:2085
+msgid "Password is changed, you can log in now"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/functions.php:2092
+msgid "Hash is invalid"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/functions.php:2096
+msgid "User does not exists"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/functions.php:2100
+msgid "Fields are empty"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/functions.php:2141
+msgid "Email with password recovery instructions is sent to your mail"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/functions.php:2144
+msgid "There was an error trying to send an email"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/functions.php:2148
+msgid "Email is not registered"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/functions.php:2170
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/functions.php:2174
+msgid "User Status"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/functions.php:2177
+msgid "Inactive"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/functions.php:2178
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/class-tgm-plugin-activation.php:2406
+msgid "Active"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/functions.php:2201
+msgid "Activation Status"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/functions.php:2213
+msgid "Activated"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/functions.php:2216
+msgid "Need Confirmation"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/functions.php:2321
+msgid "Home"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/functions.php:2326
+msgid "404 Page"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/functions.php:2330
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/functions.php:2338
+msgid "Category - "
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/functions.php:2334
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/functions.php:2342
+msgid "Tag - "
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/functions.php:2346
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/page-tpl_home.php:33
+msgid "Search"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/functions.php:2347
+msgid "Reviews written by "
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/functions.php:2351
+msgid "Posts written by "
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/functions.php:2356
+msgid "Search results for: "
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/functions.php:2360
+msgid "Archive for "
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/functions.php:2363
+msgid "Reviews search results"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/functions.php:2366
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/shortcodes/latest_blogs.php:50
+msgid " in "
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/functions.php:2369
+msgid " for "
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/functions.php:2372
+msgid " tagged with"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/header.php:35
+msgid "My Account"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/header.php:39
+msgid "Log Out"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/header.php:47
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/page-tpl_register_login.php:47
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/page-tpl_register_login.php:85
+msgid "Register"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/header.php:51
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/page-tpl_register_login.php:123
+msgid "Log In"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/header.php:80
+msgid "Toggle navigation"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/header.php:125
+msgid "Type term to search..."
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/blog-list.php:59
+msgid "Continue reading"
+msgstr ""
+
+#. translators: %s: plugin name.
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/class-tgm-plugin-activation.php:339
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/class-tgm-plugin-activation.php:393
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/class-tgm-plugin-activation.php:912
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/class-tgm-plugin-activation.php:2618
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/class-tgm-plugin-activation.php:3665
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/class-tgm-plugin-activation.php:395
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#. translators: 1: plugin name.
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/class-tgm-plugin-activation.php:397
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/class-tgm-plugin-activation.php:399
+#, php-format
+msgid "Plugin not activated. A higher version of %s is needed for this theme. Please update the plugin."
+msgstr ""
+
+#. translators: 1: dashboard link.
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/class-tgm-plugin-activation.php:401
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/class-tgm-plugin-activation.php:402
+msgid "Dismiss this notice"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/class-tgm-plugin-activation.php:403
+msgid "There are one or more required or recommended plugins to install, update or activate."
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/class-tgm-plugin-activation.php:404
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/class-tgm-plugin-activation.php:607
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/class-tgm-plugin-activation.php:608
+msgid "Update Required"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/class-tgm-plugin-activation.php:1019
+msgid "The remote plugin package does not contain a folder with the desired slug and renaming did not work."
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/class-tgm-plugin-activation.php:1019
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/class-tgm-plugin-activation.php:1022
+msgid "Please contact the plugin provider and ask them to package their plugin according to the WordPress guidelines."
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/class-tgm-plugin-activation.php:1022
+msgid "The remote plugin package consists of more than one file, but the files are not packaged in a folder."
+msgstr ""
+
+#. translators: %s: version number
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/class-tgm-plugin-activation.php:2067
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/class-tgm-plugin-activation.php:2358
+msgid "Required"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/class-tgm-plugin-activation.php:2361
+msgid "Recommended"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/class-tgm-plugin-activation.php:2377
+msgid "WordPress Repository"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/class-tgm-plugin-activation.php:2380
+msgid "External Source"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/class-tgm-plugin-activation.php:2383
+msgid "Pre-Packaged"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/class-tgm-plugin-activation.php:2400
+msgid "Not Installed"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/class-tgm-plugin-activation.php:2404
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/class-tgm-plugin-activation.php:2412
+msgid "Required Update not Available"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/class-tgm-plugin-activation.php:2415
+msgid "Requires Update"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/class-tgm-plugin-activation.php:2418
+msgid "Update recommended"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/class-tgm-plugin-activation.php:2575
+msgid "Installed version:"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/class-tgm-plugin-activation.php:2583
+msgid "Minimum required version:"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/class-tgm-plugin-activation.php:2595
+msgid "Available version:"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/class-tgm-plugin-activation.php:2618
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/class-tgm-plugin-activation.php:2632
+msgid "Plugin"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/class-tgm-plugin-activation.php:2633
+msgid "Source"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/class-tgm-plugin-activation.php:2634
+msgid "Type"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/class-tgm-plugin-activation.php:2638
+msgid "Version"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/class-tgm-plugin-activation.php:2639
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/reviews-panel.php:85
+msgid "Status"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/class-tgm-plugin-activation.php:2688
+#, php-format
+msgid "Install %2$s"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/class-tgm-plugin-activation.php:2693
+#, php-format
+msgid "Update %2$s"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/class-tgm-plugin-activation.php:2699
+#, php-format
+msgid "Activate %2$s"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/class-tgm-plugin-activation.php:2769
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/class-tgm-plugin-activation.php:2802
+msgid "Install"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/class-tgm-plugin-activation.php:2808
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/reviews-panel.php:189
+msgid "Update"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/class-tgm-plugin-activation.php:2811
+msgid "Activate"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/class-tgm-plugin-activation.php:2842
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/class-tgm-plugin-activation.php:2844
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/class-tgm-plugin-activation.php:2885
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/class-tgm-plugin-activation.php:2887
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/class-tgm-plugin-activation.php:2993
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/class-tgm-plugin-activation.php:3019
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/class-tgm-plugin-activation.php:3243
+msgid "Plugin activation failed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/class-tgm-plugin-activation.php:3583
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#. translators: 1: plugin name, 2: error message.
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/class-tgm-plugin-activation.php:3586
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/class-tgm-plugin-activation.php:3588
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/class-tgm-plugin-activation.php:3592
+msgid ""
+"The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/class-tgm-plugin-activation.php:3594
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/class-tgm-plugin-activation.php:3594
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/class-tgm-plugin-activation.php:3602
+msgid "Show Details"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/class-tgm-plugin-activation.php:3594
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/class-tgm-plugin-activation.php:3602
+msgid "Hide Details"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/class-tgm-plugin-activation.php:3595
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/class-tgm-plugin-activation.php:3597
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/class-tgm-plugin-activation.php:3600
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/class-tgm-plugin-activation.php:3602
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/class-tgm-plugin-activation.php:3603
+msgid "All installations have been completed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/class-tgm-plugin-activation.php:3605
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/comments-meta.php:7
+msgid "Error: please fill the required field (review)."
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/comments-meta.php:13
+msgid "Error: please rate all criterias."
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/comments-meta.php:80
+msgid "Review Scores"
+msgstr ""
+
+#. translators: %s: title of menu item which is invalid
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/menu-extender.php:134
+#, php-format
+msgid "%s (Invalid)"
+msgstr ""
+
+#. translators: %s: title of menu item in draft status
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/menu-extender.php:138
+#, php-format
+msgid "%s (Pending)"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/menu-extender.php:151
+msgid "sub item"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/menu-extender.php:166
+msgid "Move up"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/menu-extender.php:179
+msgid "Move down"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/menu-extender.php:183
+msgid "Edit menu item"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/menu-extender.php:183
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/reviews-panel.php:108
+msgid "Edit"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/menu-extender.php:192
+msgid "URL"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/menu-extender.php:199
+msgid "Navigation Label"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/menu-extender.php:205
+msgid "Title Attribute"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/menu-extender.php:212
+msgid "Open link in a new tab"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/menu-extender.php:217
+msgid "CSS Classes (optional)"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/menu-extender.php:223
+msgid "Link Relationship (XFN)"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/menu-extender.php:229
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/review-cat.php:112
+msgid "Description"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/menu-extender.php:231
+msgid "The description will be displayed in the menu if the current theme supports it."
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/menu-extender.php:243
+msgid "Mega Menu Content"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/menu-extender.php:245
+msgid "Select"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/menu-extender.php:270
+msgid "Move"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/menu-extender.php:271
+msgid "Up one"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/menu-extender.php:272
+msgid "Down one"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/menu-extender.php:275
+msgid "To the top"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/menu-extender.php:282
+#, php-format
+msgid "Original: %s"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/menu-extender.php:295
+msgid "Remove"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/menu-extender.php:296
+msgid "Cancel"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/posts-sidebar.php:9
+msgid "Share Post"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/radium-one-click-demo-install/importer/parsers.php:42
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/radium-one-click-demo-install/importer/parsers.php:63
+msgid "There was an error when reading this WXR file"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/radium-one-click-demo-install/importer/parsers.php:43
+msgid "Details are shown above. The importer will now try again with a different parser..."
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/radium-one-click-demo-install/importer/parsers.php:67
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/radium-one-click-demo-install/importer/parsers.php:72
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/radium-one-click-demo-install/importer/parsers.php:266
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/radium-one-click-demo-install/importer/parsers.php:455
+msgid "This does not appear to be a WXR file, missing/invalid WXR version number"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/radium-one-click-demo-install/importer/radium-importer.php:212
+msgid "Demo already imported"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/radium-one-click-demo-install/importer/radium-importer.php:232
+msgid "Import Again"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/radium-one-click-demo-install/importer/radium-importer.php:236
+msgid "Import Demo Data"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/radium-one-click-demo-install/importer/radium-importer.php:420
+msgid "Theme options Import file could not be found. Please try again."
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/radium-one-click-demo-install/importer/radium-importer.php:478
+msgid "Widget Import file could not be found. Please try again."
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/radium-one-click-demo-install/importer/radium-importer.php:553
+msgid "Sidebar does not exist in theme (using Inactive)"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/radium-one-click-demo-install/importer/radium-importer.php:575
+msgid "Site does not support widget"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/radium-one-click-demo-install/importer/radium-importer.php:598
+msgid "Widget already exists"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/radium-one-click-demo-install/importer/radium-importer.php:647
+msgid "Imported"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/radium-one-click-demo-install/importer/radium-importer.php:650
+msgid "Imported to Inactive"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/radium-one-click-demo-install/importer/radium-importer.php:657
+msgid "No Title"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/radium-one-click-demo-install/importer/wordpress-importer.php:132
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/radium-one-click-demo-install/importer/wordpress-importer.php:141
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/radium-one-click-demo-install/importer/wordpress-importer.php:192
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/radium-one-click-demo-install/importer/wordpress-importer.php:196
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/radium-one-click-demo-install/importer/wordpress-importer.php:205
+msgid "Sorry, there has been an error."
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/radium-one-click-demo-install/importer/wordpress-importer.php:133
+msgid "The file does not exist, please try again."
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/radium-one-click-demo-install/importer/wordpress-importer.php:176
+msgid "All done."
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/radium-one-click-demo-install/importer/wordpress-importer.php:176
+msgid "Have fun!"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/radium-one-click-demo-install/importer/wordpress-importer.php:177
+msgid "Remember to update the passwords and roles of imported users."
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/radium-one-click-demo-install/importer/wordpress-importer.php:197
+#, php-format
+msgid "The export file could not be found at <code>%s</code>. It is likely that this was caused by a permissions problem."
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/radium-one-click-demo-install/importer/wordpress-importer.php:213
+#, php-format
+msgid "This WXR file (version %s) may not be supported by this version of the importer. Please consider updating."
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/radium-one-click-demo-install/importer/wordpress-importer.php:238
+#, php-format
+msgid "Failed to import author %s. Their posts will be attributed to the current user."
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/radium-one-click-demo-install/importer/wordpress-importer.php:264
+msgid "Assign Authors"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/radium-one-click-demo-install/importer/wordpress-importer.php:265
+msgid ""
+"To make it easier for you to edit and save the imported content, you may want to reassign the author of the imported item "
+"to an existing user of this site. For example, you may want to import all the entries as <code>admin</code>s entries."
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/radium-one-click-demo-install/importer/wordpress-importer.php:267
+#, php-format
+msgid ""
+"If a new user is created by WordPress, a new password will be randomly generated and the new user&#8217;s role will be set "
+"as %s. Manually changing the new user&#8217;s details will be necessary."
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/radium-one-click-demo-install/importer/wordpress-importer.php:277
+msgid "Import Attachments"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/radium-one-click-demo-install/importer/wordpress-importer.php:280
+msgid "Download and import file attachments"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/radium-one-click-demo-install/importer/wordpress-importer.php:284
+msgid "Submit"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/radium-one-click-demo-install/importer/wordpress-importer.php:297
+msgid "Import author:"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/radium-one-click-demo-install/importer/wordpress-importer.php:308
+msgid "or create new user with login name:"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/radium-one-click-demo-install/importer/wordpress-importer.php:311
+msgid "as a new user:"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/radium-one-click-demo-install/importer/wordpress-importer.php:319
+msgid "assign posts to an existing user:"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/radium-one-click-demo-install/importer/wordpress-importer.php:321
+msgid "or assign posts to an existing user:"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/radium-one-click-demo-install/importer/wordpress-importer.php:322
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/page-tpl_search.php:158
+msgid "- Select -"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/radium-one-click-demo-install/importer/wordpress-importer.php:372
+#, php-format
+msgid "Failed to create new user for %s. Their posts will be attributed to the current user."
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/radium-one-click-demo-install/importer/wordpress-importer.php:424
+#, php-format
+msgid "Failed to import category %s"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/radium-one-click-demo-install/importer/wordpress-importer.php:467
+#, php-format
+msgid "Failed to import post tag %s"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/radium-one-click-demo-install/importer/wordpress-importer.php:516
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/radium-one-click-demo-install/importer/wordpress-importer.php:737
+#, php-format
+msgid "Failed to import %s %s"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/radium-one-click-demo-install/importer/wordpress-importer.php:604
+#, php-format
+msgid "Failed to import &#8220;%s&#8221;: Invalid post type %s"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/radium-one-click-demo-install/importer/wordpress-importer.php:641
+#, php-format
+msgid "%s &#8220;%s&#8221; already exists."
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/radium-one-click-demo-install/importer/wordpress-importer.php:703
+#, php-format
+msgid "Failed to import %s &#8220;%s&#8221;"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/radium-one-click-demo-install/importer/wordpress-importer.php:868
+msgid "Menu item skipped due to missing menu slug"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/radium-one-click-demo-install/importer/wordpress-importer.php:875
+#, php-format
+msgid "Menu item skipped due to invalid menu slug: %s"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/radium-one-click-demo-install/importer/wordpress-importer.php:940
+msgid "Fetching attachments is not enabled"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/radium-one-click-demo-install/importer/wordpress-importer.php:953
+msgid "Invalid file type"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/radium-one-click-demo-install/importer/wordpress-importer.php:997
+msgid "Remote server did not respond"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/radium-one-click-demo-install/importer/wordpress-importer.php:1003
+#, php-format
+msgid "Remote server returned error response %1$d %2$s"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/radium-one-click-demo-install/importer/wordpress-importer.php:1010
+msgid "Zero size file downloaded"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/radium-one-click-demo-install/importer/wordpress-importer.php:1016
+#, php-format
+msgid "Remote file is too large, limit is %s"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/radium-one-click-demo-install/importer/wordpress-importer.php:1115
+msgid "Import WordPress"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/radium-one-click-demo-install/importer/wordpress-importer.php:1122
+#, php-format
+msgid ""
+"A new version of this importer is available. Please update to version %s to ensure compatibility with newer export files."
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/radium-one-click-demo-install/importer/wordpress-importer.php:1137
+msgid ""
+"Howdy! Upload your WordPress eXtended RSS (WXR) file and we&#8217;ll import the posts, pages, comments, custom fields, "
+"categories, and tags into this site."
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/radium-one-click-demo-install/importer/wordpress-importer.php:1138
+msgid "Choose a WXR (.xml) file to upload, then click Upload file and import."
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/radium-one-click-demo-install/importer/wordpress-importer.php:1255
+msgid "Import <strong>posts, pages, comments, custom fields, categories, and tags</strong> from a WordPress export file."
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/review-box-alt.php:52
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/review-box.php:30
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/reviews-sidebar.php:12
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/shortcodes/latest_blogs.php:46
+msgid "By "
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/review-box-alt.php:60
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/review-box.php:38
+msgid " By"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/review-cat.php:12
+msgid "Icon:"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/review-cat.php:17
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/review-cat.php:49
+msgid "Select icon for the code category"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/review-cat.php:20
+msgid "Review Criterias:"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/review-cat.php:22
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/review-cat.php:65
+msgid "Add New"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/review-cat.php:23
+msgid "Input criterias which will review receive once this category is selected."
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/review-cat.php:43
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/review-cat.php:115
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/shortcodes/alert.php:79
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/shortcodes/icon.php:49
+msgid "Icon"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/review-cat.php:54
+msgid "Review Criterias"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/review-cat.php:66
+msgid "Input criterias which will review receive once this category is selected"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/review-cat.php:111
+msgid "Name"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/review-cat.php:113
+msgid "Slug"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/review-cat.php:114
+msgid "Codes"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/reviews-panel.php:6
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/shortcodes/reviews.php:188
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/theme-options.php:236
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/widgets.php:358
+msgid "Reviews"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/reviews-panel.php:54
+msgid "Your reviews"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/reviews-panel.php:60
+msgid "Select bulk action"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/reviews-panel.php:62
+msgid "Bulk Actions"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/reviews-panel.php:63
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/reviews-panel.php:109
+msgid "Delete"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/reviews-panel.php:65
+msgid "Apply"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/reviews-panel.php:69
+msgid "Search Reviews:"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/reviews-panel.php:82
+msgid "Select All"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/reviews-panel.php:86
+msgid "Review"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/reviews-panel.php:87
+msgid "Review Of"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/reviews-panel.php:88
+msgid "Submitted On"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/reviews-panel.php:99
+msgid "Select comment"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/reviews-panel.php:103
+msgid "Approved"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/reviews-panel.php:103
+msgid "Pending"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/reviews-panel.php:128
+msgid "No reviews found"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/reviews-panel.php:174
+msgid "Review updated"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/reviews-panel.php:177
+msgid "Empty review content"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/reviews-panel.php:182
+msgid "Edit Review"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/reviews-sidebar.php:16
+msgid "Category:"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/reviews-sidebar.php:20
+msgid "Author Ratings:"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/reviews-sidebar.php:30
+msgid "User Ratings:"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/reviews-sidebar.php:36
+msgid "Reviews:"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/reviews-sidebar.php:40
+msgid "user review"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/reviews-sidebar.php:40
+msgid "user reviews"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/reviews-sidebar.php:46
+msgid "Created:"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/reviews-sidebar.php:92
+msgid "Visit"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/reviews-sidebar.php:113
+msgid "Share Review"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/reviews-sidebar.php:154
+msgid "Similar Products"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/share.php:11
+msgid "Share on Facebook"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/share.php:14
+msgid "Share on Twitter"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/share.php:17
+msgid "Share on Google+"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/share.php:20
+msgid "Share on LinkedIn"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/share.php:22
+msgid "Share on Tumblr"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/share.php:25
+msgid "Share on VK"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/shortcodes.php:70
+msgid "Add Image"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/shortcodes.php:75
+msgid "Add Images"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/shortcodes.php:90
+msgid "Insert"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/shortcodes/accordion.php:59
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/shortcodes/tabs.php:46
+msgid "Titles"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/shortcodes/accordion.php:62
+msgid "Input accordion titles separated by /n/."
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/shortcodes/accordion.php:68
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/shortcodes/tabs.php:55
+msgid "Contents"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/shortcodes/accordion.php:71
+msgid "Input accordion contents separated by /n/."
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/shortcodes/accordion.php:79
+msgid "Accordion"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/shortcodes/accordion.php:81
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/shortcodes/alert.php:121
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/shortcodes/banner.php:43
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/shortcodes/button.php:237
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/shortcodes/categories_list.php:114
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/shortcodes/gallery.php:74
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/shortcodes/gap.php:30
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/shortcodes/icon.php:51
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/shortcodes/iframe.php:47
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/shortcodes/label.php:51
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/shortcodes/latest_blogs.php:96
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/shortcodes/progressbar.php:177
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/shortcodes/reviews.php:190
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/shortcodes/tabs.php:68
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/shortcodes/title.php:77
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/shortcodes/toggle.php:51
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/shortcodes/toggle.php:76
+msgid "Content"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/shortcodes/alert.php:31
+msgid "Close"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/shortcodes/alert.php:43
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/shortcodes/label.php:20
+msgid "Text"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/shortcodes/alert.php:46
+msgid "Input alert text."
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/shortcodes/alert.php:52
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/shortcodes/button.php:130
+msgid "Border Color"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/shortcodes/alert.php:55
+msgid "Select border color for the alert box."
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/shortcodes/alert.php:61
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/shortcodes/label.php:29
+msgid "Background Color Color"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/shortcodes/alert.php:64
+msgid "Select background color of the alert box."
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/shortcodes/alert.php:70
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/shortcodes/label.php:38
+msgid "Text Color"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/shortcodes/alert.php:73
+msgid "Select font color for the alert box text."
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/shortcodes/alert.php:82
+msgid "Select icon."
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/shortcodes/alert.php:88
+msgid "Closeable"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/shortcodes/alert.php:91
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/shortcodes/button.php:216
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/shortcodes/categories_list.php:101
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/shortcodes/reviews.php:177
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/shortcodes/title.php:66
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/theme-options.php:112
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/theme-options.php:124
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/theme-options.php:244
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/theme-options.php:255
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/theme-options.php:299
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/theme-options.php:310
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/theme-options.php:320
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/theme-options.php:331
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/theme-options.php:407
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/theme-options.php:419
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/theme-options.php:431
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/theme-options.php:443
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/theme-options.php:455
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/theme-options.php:467
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/theme-options.php:479
+msgid "No"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/shortcodes/alert.php:92
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/shortcodes/button.php:217
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/shortcodes/categories_list.php:102
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/shortcodes/reviews.php:178
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/shortcodes/title.php:65
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/theme-options.php:111
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/theme-options.php:123
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/theme-options.php:245
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/theme-options.php:256
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/theme-options.php:298
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/theme-options.php:309
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/theme-options.php:321
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/theme-options.php:332
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/theme-options.php:406
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/theme-options.php:418
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/theme-options.php:430
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/theme-options.php:442
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/theme-options.php:454
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/theme-options.php:466
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/theme-options.php:478
+msgid "Yes"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/shortcodes/alert.php:94
+msgid "Enable or disable alert closing."
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/shortcodes/alert.php:100
+msgid "Close Icon Color"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/shortcodes/alert.php:103
+msgid "Select color for the close icon."
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/shortcodes/alert.php:109
+msgid "Close Icon Color On Hover"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/shortcodes/alert.php:112
+msgid "Select color for the close icon on hover."
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/shortcodes/alert.php:119
+msgid "Alert"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/shortcodes/banner.php:22
+msgid "Link"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/shortcodes/banner.php:25
+msgid "Input banner link."
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/shortcodes/banner.php:31
+msgid "Banner Background Image"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/shortcodes/banner.php:34
+msgid "Select banner background image."
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/shortcodes/banner.php:41
+msgid "Banner"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/shortcodes/button.php:64
+msgid "Button Text"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/shortcodes/button.php:67
+msgid "Input button text."
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/shortcodes/button.php:76
+msgid "Input button link."
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/shortcodes/button.php:82
+msgid "Select Window"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/shortcodes/button.php:85
+msgid "Same Window"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/shortcodes/button.php:86
+msgid "New Window"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/shortcodes/button.php:88
+msgid "Select window where to open the link."
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/shortcodes/button.php:94
+msgid "Background Color"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/shortcodes/button.php:97
+msgid "Select button background color."
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/shortcodes/button.php:103
+msgid "Background Color On Hover"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/shortcodes/button.php:106
+msgid "Select button background color on hover."
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/shortcodes/button.php:112
+msgid "Button Border Radius"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/shortcodes/button.php:115
+msgid "Input button border radius. For example 5px or 5ox 9px 0px 0px or 50% or 50% 50% 20% 10%."
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/shortcodes/button.php:121
+msgid "Border Width"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/shortcodes/button.php:124
+msgid "Input border width."
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/shortcodes/button.php:133
+msgid "Select button border color."
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/shortcodes/button.php:139
+msgid "Border Color On Hover"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/shortcodes/button.php:142
+msgid "Select button border color on hover."
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/shortcodes/button.php:148
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/shortcodes/icon.php:20
+msgid "Select Icon"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/shortcodes/button.php:151
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/shortcodes/icon.php:23
+msgid "Select an icon you want to display."
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/shortcodes/button.php:157
+msgid "Font Color"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/shortcodes/button.php:160
+msgid "Select button font color."
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/shortcodes/button.php:166
+msgid "Font Color On Hover"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/shortcodes/button.php:169
+msgid "Select button font color on hover."
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/shortcodes/button.php:175
+msgid "Button Size"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/shortcodes/button.php:178
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/shortcodes/button.php:204
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/shortcodes/progressbar.php:164
+msgid "Normal"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/shortcodes/button.php:179
+msgid "Medium"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/shortcodes/button.php:180
+msgid "Large"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/shortcodes/button.php:182
+msgid "Select button size."
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/shortcodes/button.php:188
+msgid "Button Align"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/shortcodes/button.php:191
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/shortcodes/title.php:53
+msgid "Left"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/shortcodes/button.php:192
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/shortcodes/title.php:52
+msgid "Center"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/shortcodes/button.php:193
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/shortcodes/title.php:54
+msgid "Right"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/shortcodes/button.php:195
+msgid "Select button align."
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/shortcodes/button.php:201
+msgid "Select Button Width"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/shortcodes/button.php:205
+msgid "Full Width"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/shortcodes/button.php:207
+msgid "Select button width."
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/shortcodes/button.php:213
+msgid "Display Inline"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/shortcodes/button.php:219
+msgid "Display button inline."
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/shortcodes/button.php:225
+msgid "Button Margins"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/shortcodes/button.php:228
+msgid "Add button margins."
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/shortcodes/button.php:235
+msgid "Button"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/shortcodes/categories_list.php:80
+msgid "Categories"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/shortcodes/categories_list.php:83
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/shortcodes/mega_menu_reviews.php:174
+msgid "Select parent categories to show."
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/shortcodes/categories_list.php:89
+msgid "Number Of Subcategories"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/shortcodes/categories_list.php:92
+msgid "Input number of subcategories to show under each category. Input 0 For all."
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/shortcodes/categories_list.php:98
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/theme-options.php:247
+msgid "Link To Subcategories"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/shortcodes/categories_list.php:104
+msgid "If this is set to yes then if category has subcategories link will go there instead on filter reviews."
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/shortcodes/categories_list.php:112
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/widgets.php:529
+msgid "Reviews Categories"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/shortcodes/column.php:18
+msgid "Column Size"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/shortcodes/column.php:21
+msgid "Input column size. min 1 max 12. Sum of these numbers in a row must be 12."
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/shortcodes/gallery.php:34
+msgid "Select Images"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/shortcodes/gallery.php:37
+msgid "Select images for the gallery."
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/shortcodes/gallery.php:43
+msgid "Thumbnail Image Size"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/shortcodes/gallery.php:46
+msgid "Select image size you want to display for the thumbnails."
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/shortcodes/gallery.php:52
+msgid "Columns"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/shortcodes/gallery.php:66
+msgid "Select number of columns for the thumbnails."
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/shortcodes/gallery.php:72
+msgid "Gallery"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/shortcodes/gap.php:18
+msgid "Gap Height"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/shortcodes/gap.php:21
+msgid "Input gap height."
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/shortcodes/gap.php:28
+msgid "Gap"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/shortcodes/icon.php:29
+msgid "Icon Color"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/shortcodes/icon.php:32
+msgid "Select color of the icon."
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/shortcodes/icon.php:38
+msgid "Icon Size"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/shortcodes/icon.php:41
+msgid "Input size of the icon."
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/shortcodes/iframe.php:22
+msgid "Iframe link"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/shortcodes/iframe.php:25
+msgid "Input link you want to embed."
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/shortcodes/iframe.php:31
+msgid "Iframe Proportion"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/shortcodes/iframe.php:34
+msgid "4 by 3"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/shortcodes/iframe.php:35
+msgid "16 by 9"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/shortcodes/iframe.php:37
+msgid "Select iframe proportion."
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/shortcodes/iframe.php:45
+msgid "Iframe"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/shortcodes/label.php:23
+msgid "Input label text."
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/shortcodes/label.php:32
+msgid "Select background color of the label."
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/shortcodes/label.php:41
+msgid "Select font color for the label text."
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/shortcodes/label.php:49
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/shortcodes/progressbar.php:68
+msgid "Label"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/shortcodes/latest_blogs.php:84
+msgid "Number Of Blogs"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/shortcodes/latest_blogs.php:87
+msgid "Input number of the latest blogs to show."
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/shortcodes/latest_blogs.php:94
+msgid "Latest Blogs"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/shortcodes/mega_menu_reviews.php:15
+msgid "Oldest Reviews"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/shortcodes/mega_menu_reviews.php:18
+msgid "Latest Reviews"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/shortcodes/mega_menu_reviews.php:23
+msgid "Worst Author Rated"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/shortcodes/mega_menu_reviews.php:26
+msgid "Best Author Rated"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/shortcodes/mega_menu_reviews.php:31
+msgid "Worst User Rated"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/shortcodes/mega_menu_reviews.php:34
+msgid "Best User Rated"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/shortcodes/mega_menu_reviews.php:39
+msgid "The Least Read"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/shortcodes/mega_menu_reviews.php:42
+msgid "Top Most Read"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/shortcodes/mega_menu_reviews.php:171
+msgid "Category"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/shortcodes/mega_menu_reviews.php:180
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/shortcodes/reviews.php:120
+msgid "Number Of Reviews"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/shortcodes/mega_menu_reviews.php:183
+msgid "Input how many reviews to display from this category."
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/shortcodes/mega_menu_reviews.php:189
+msgid "Categories Title"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/shortcodes/mega_menu_reviews.php:192
+msgid "Input title for the categories list."
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/shortcodes/mega_menu_reviews.php:198
+msgid "Number Of Rows"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/shortcodes/mega_menu_reviews.php:201
+msgid "Input in how many rows to display results."
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/shortcodes/mega_menu_reviews.php:207
+msgid "Order By"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/shortcodes/mega_menu_reviews.php:210
+msgid "Date added"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/shortcodes/mega_menu_reviews.php:211
+msgid "Average author rate"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/shortcodes/mega_menu_reviews.php:212
+msgid "Users average rate"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/shortcodes/mega_menu_reviews.php:213
+msgid "Number of visits"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/shortcodes/mega_menu_reviews.php:215
+msgid "Select orderby parametar."
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/shortcodes/mega_menu_reviews.php:221
+msgid "Order "
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/shortcodes/mega_menu_reviews.php:224
+msgid "Ascending"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/shortcodes/mega_menu_reviews.php:225
+msgid "Descending"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/shortcodes/mega_menu_reviews.php:227
+msgid "Select order parametar."
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/shortcodes/progressbar.php:71
+msgid "Input progress bar label."
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/shortcodes/progressbar.php:77
+msgid "Label Font Size"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/shortcodes/progressbar.php:80
+msgid "Input label font size."
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/shortcodes/progressbar.php:86
+msgid "Value"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/shortcodes/progressbar.php:89
+msgid "Input progress bar value. Input number only unit is in percentage."
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/shortcodes/progressbar.php:95
+msgid "Progress Bar Color"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/shortcodes/progressbar.php:98
+msgid "Select progress bar color."
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/shortcodes/progressbar.php:104
+msgid "Progress Bar Background Color"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/shortcodes/progressbar.php:107
+msgid "Select progress bar background color."
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/shortcodes/progressbar.php:113
+msgid "Progress Bar Label Color"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/shortcodes/progressbar.php:116
+msgid "Select progress bar label color."
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/shortcodes/progressbar.php:122
+msgid "Progress Bar Label Position"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/shortcodes/progressbar.php:125
+msgid "On Progress Bar"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/shortcodes/progressbar.php:126
+msgid "Above Progress Bar"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/shortcodes/progressbar.php:128
+msgid "Select location of the label."
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/shortcodes/progressbar.php:134
+msgid "Progress Bar Height"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/shortcodes/progressbar.php:137
+msgid "Input progress bar height."
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/shortcodes/progressbar.php:143
+msgid "Progress Bar Label Icon"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/shortcodes/progressbar.php:146
+msgid "Select icon for the label."
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/shortcodes/progressbar.php:152
+msgid "Progress Bar Border Radius"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/shortcodes/progressbar.php:155
+msgid "Input progress bar border radius."
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/shortcodes/progressbar.php:161
+msgid "Progress Bar Style"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/shortcodes/progressbar.php:165
+msgid "Stripes"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/shortcodes/progressbar.php:166
+msgid "Active Stripes"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/shortcodes/progressbar.php:168
+msgid "Select progress bar style."
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/shortcodes/progressbar.php:175
+msgid "Progress Bar"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/shortcodes/reviews.php:123
+msgid "Input number of the latest reviews to show."
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/shortcodes/reviews.php:129
+msgid "Style"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/shortcodes/reviews.php:132
+msgid "Top Media"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/shortcodes/reviews.php:133
+msgid "Side Media"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/shortcodes/reviews.php:135
+msgid "Select reviews box style."
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/shortcodes/reviews.php:141
+msgid "From Category"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/shortcodes/reviews.php:144
+msgid "Filter by categories."
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/shortcodes/reviews.php:150
+msgid "Reviews Source"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/shortcodes/reviews.php:153
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/widgets.php:501
+msgid "Latest"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/shortcodes/reviews.php:154
+msgid "Top Rated By Author"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/shortcodes/reviews.php:155
+msgid "Top Rated By Users"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/shortcodes/reviews.php:156
+msgid "Most Reviews"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/shortcodes/reviews.php:157
+msgid "Random"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/shortcodes/reviews.php:159
+msgid "Select reviews source."
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/shortcodes/reviews.php:165
+msgid "Reviews By ID ( Overrides field above )"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/shortcodes/reviews.php:168
+msgid "Input comma separated list of reviews to display and it will be used instead value from the field above."
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/shortcodes/reviews.php:174
+msgid "Use Slider"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/shortcodes/reviews.php:180
+msgid "Enable or disable usage of the slider."
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/shortcodes/tabs.php:49
+msgid "Input tab titles separated by /n/."
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/shortcodes/tabs.php:58
+msgid "Input tab contents separated by /n/."
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/shortcodes/tabs.php:66
+msgid "Tabs"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/shortcodes/title.php:31
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/shortcodes/toggle.php:42
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/widgets.php:505
+msgid "Title"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/shortcodes/title.php:34
+msgid "Input title for the categories block."
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/shortcodes/title.php:40
+msgid "Subtitle"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/shortcodes/title.php:43
+msgid "Input subtitle for the categories block."
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/shortcodes/title.php:49
+msgid "Text Align"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/shortcodes/title.php:56
+msgid "Select title text align."
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/shortcodes/title.php:62
+msgid "With White Container"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/shortcodes/title.php:68
+msgid "Select wheter or not to put title in the shite container ."
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/shortcodes/title.php:75
+msgid "Reviews Title"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/shortcodes/toggle.php:45
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/shortcodes/toggle.php:54
+msgid "Input toggle title."
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/shortcodes/toggle.php:60
+msgid "Default State"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/shortcodes/toggle.php:63
+msgid "Closed"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/shortcodes/toggle.php:64
+msgid "Opened"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/shortcodes/toggle.php:66
+msgid "Select default toggle state."
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/shortcodes/toggle.php:74
+msgid "Toggle"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/theme-options.php:105
+msgid "This is basic section where you can set up main settings for your website."
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/theme-options.php:114
+msgid "Sticky Menu"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/theme-options.php:115
+msgid "Enable or disable sticky menu"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/theme-options.php:126
+msgid "Show Top Bar"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/theme-options.php:127
+msgid "Enable or hide top bar"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/theme-options.php:133
+msgid "Top Bar Message"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/theme-options.php:134
+msgid "Input custom top bar message"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/theme-options.php:140
+msgid "Site Logo"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/theme-options.php:141
+msgid "Upload site logo"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/theme-options.php:146
+msgid "Home Search Image Background 1"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/theme-options.php:147
+msgid "Select first image for big search slider or only picture."
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/theme-options.php:152
+msgid "Home Search Image Background 2"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/theme-options.php:153
+msgid "Select slider image 2."
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/theme-options.php:158
+msgid "Home Search Image Background 3"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/theme-options.php:159
+msgid "Select slider image 3."
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/theme-options.php:164
+msgid "Home Search Image Background 4"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/theme-options.php:165
+msgid "Select slider image 4."
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/theme-options.php:170
+msgid "Home Search Image Background 5"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/theme-options.php:171
+msgid "Select slider image 5."
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/theme-options.php:176
+msgid "Home Search Image Background 6"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/theme-options.php:177
+msgid "Select slider image 6."
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/theme-options.php:182
+msgid "Home Search Image Background 7"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/theme-options.php:183
+msgid "Select slider image 7."
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/theme-options.php:188
+msgid "Home Search Image Background 8"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/theme-options.php:189
+msgid "Select slider image 8."
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/theme-options.php:194
+msgid "Home Search Image Background 9"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/theme-options.php:195
+msgid "Select slider image 9."
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/theme-options.php:200
+msgid "Home Search Image Background 10"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/theme-options.php:201
+msgid "Select slider image 10."
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/theme-options.php:206
+msgid "Big Search Title"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/theme-options.php:207
+msgid "Input title for the big search."
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/theme-options.php:212
+msgid "Big Search Subtitle"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/theme-options.php:213
+msgid "Input subtitle for the big search."
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/theme-options.php:219
+msgid "LTR"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/theme-options.php:220
+msgid "RTL"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/theme-options.php:222
+msgid "Choose Site Content Direction"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/theme-options.php:223
+msgid "Choose overall website text direction which can be RTL (right to left) or LTR (left to right)."
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/theme-options.php:238
+msgid "Reviews setup."
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/theme-options.php:248
+msgid ""
+"If this is set to yes then if category has subcategories link will go there instead on filter reviews from the All "
+"Categories page."
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/theme-options.php:258
+msgid "Allow Reviews With Rating Only"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/theme-options.php:259
+msgid "Allow basic users to just rate the review by criteria without writting small summary."
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/theme-options.php:265
+msgid "Similar Reviews"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/theme-options.php:266
+msgid "Input number of similar reviews to show on reviews single page"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/theme-options.php:272
+msgid "Reviews Per Page"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/theme-options.php:273
+msgid "Input number of reviews to dispaly per page"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/theme-options.php:280
+msgid "Masonry"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/theme-options.php:281
+msgid "Grid"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/theme-options.php:283
+msgid "Reviews Listing Style"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/theme-options.php:284
+msgid "Select how to list reviews on search and taxonomy listings"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/theme-options.php:290
+msgid "Call To Action Button Text"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/theme-options.php:291
+msgid "Input which will be disaplyed as text on the call to action button on review single"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/theme-options.php:301
+msgid "Show Author"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/theme-options.php:302
+msgid "Show or hide author on the reviews single"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/theme-options.php:312
+msgid "Force Users To Login?"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/theme-options.php:313
+msgid "Force users to login before submitting review or allow them to send it without registration"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/theme-options.php:323
+msgid "Approve Reviews?"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/theme-options.php:324
+msgid "If this is set to yes then you need to approve the review before it gets displayed and calcualted into overall"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/theme-options.php:334
+msgid "Title Before Media"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/theme-options.php:335
+msgid "If this is set to Yes then title on single review page will be before images."
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/theme-options.php:347
+msgid "Slugs"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/theme-options.php:349
+msgid "Slugs setup."
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/theme-options.php:354
+msgid "Reviews Slug"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/theme-options.php:355
+msgid "Input slug you want to use for the review single page."
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/theme-options.php:361
+msgid "Reviews Category Slug"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/theme-options.php:362
+msgid "Input slug you want to use for the review categories."
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/theme-options.php:368
+msgid "Reviews Tag Slug"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/theme-options.php:369
+msgid "Input slug you want to use for the review tags."
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/theme-options.php:375
+msgid "Reviews Keyword Slug"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/theme-options.php:376
+msgid "Input slug you want to use for the review keyword search."
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/theme-options.php:382
+msgid "Reviews Sort Slug"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/theme-options.php:383
+msgid "Input slug you want to use for the review sort search."
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/theme-options.php:395
+msgid "Share"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/theme-options.php:397
+msgid "Post share options."
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/theme-options.php:403
+msgid "Enable Share"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/theme-options.php:404
+msgid "Enable or disable post share."
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/theme-options.php:415
+msgid "Facebook Share"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/theme-options.php:416
+msgid "Enable or disable post share on Facebook."
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/theme-options.php:427
+msgid "Twitter Share"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/theme-options.php:428
+msgid "Enable or disable post share on Twitter."
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/theme-options.php:439
+msgid "Google+ Share"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/theme-options.php:440
+msgid "Enable or disable post share on Google+."
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/theme-options.php:451
+msgid "Linkedin Share"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/theme-options.php:452
+msgid "Enable or disable post share on Linkedin."
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/theme-options.php:463
+msgid "Tumblr Share"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/theme-options.php:464
+msgid "Enable or disable post share on Tumblr."
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/theme-options.php:475
+msgid "VK Share"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/theme-options.php:476
+msgid "Enable or disable post share on VK."
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/theme-options.php:492
+msgid "Subscription"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/theme-options.php:494
+msgid "Set up subscription API key and list ID."
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/theme-options.php:500
+msgid "API Key"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/theme-options.php:501
+msgid "Type your mail chimp api key."
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/theme-options.php:507
+msgid "List ID"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/theme-options.php:508
+msgid "Type here ID of the list on which users will subscribe."
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/theme-options.php:518
+msgid "Appearance"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/theme-options.php:520
+msgid "Set up the looks."
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/theme-options.php:525
+msgid "Top Bar Background Color"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/theme-options.php:526
+msgid "Select color of the top bar background."
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/theme-options.php:533
+msgid "Top Bar Font Color"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/theme-options.php:534
+msgid "Select font color for the top bar."
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/theme-options.php:542
+msgid "Navigation Background Color"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/theme-options.php:543
+msgid "Select background color of the navigation bar."
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/theme-options.php:550
+msgid "Navigation Font Color"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/theme-options.php:551
+msgid "Select font color of the navigation bar."
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/theme-options.php:558
+msgid "Navigation Font"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/theme-options.php:559
+msgid "Select navigation font."
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/theme-options.php:567
+msgid "Navigation Font Size"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/theme-options.php:568
+msgid "Input navigation font size."
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/theme-options.php:574
+msgid "Link Font Color"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/theme-options.php:575
+msgid "Select font color for the link."
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/theme-options.php:583
+msgid "Breadcrumbs Background Color"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/theme-options.php:584
+msgid "Select background color of the breadcrumbs."
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/theme-options.php:591
+msgid "Breadcrumbs Font Color"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/theme-options.php:592
+msgid "Select font color of the breadcrumbs."
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/theme-options.php:600
+msgid "Buttons Main BG Color"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/theme-options.php:601
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/theme-options.php:617
+msgid "Select background color for the buttons."
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/theme-options.php:608
+msgid "Buttons Main Font Color"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/theme-options.php:609
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/theme-options.php:625
+msgid "Select font color for the buttons."
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/theme-options.php:616
+msgid "Buttons Main BG Color On Hover"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/theme-options.php:624
+msgid "Buttons Main Font Color On Hover"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/theme-options.php:632
+msgid "Pagination Active Buttons BG Color"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/theme-options.php:633
+msgid "Select background color of the active button on pagination."
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/theme-options.php:640
+msgid "Pagination Active Buttons Font Color"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/theme-options.php:641
+msgid "Select font color of the active button on pagination."
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/theme-options.php:650
+msgid "Text Font"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/theme-options.php:651
+msgid "Select font for the regular text."
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/theme-options.php:658
+msgid "Text Font Size"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/theme-options.php:659
+msgid "Input text font size."
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/theme-options.php:665
+msgid "Text Line Height"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/theme-options.php:666
+msgid "Input text line height."
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/theme-options.php:674
+msgid "Title Font"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/theme-options.php:675
+msgid "Select font for the title text."
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/theme-options.php:682
+msgid "Heading 1 Font Size"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/theme-options.php:683
+msgid "Input heading 1 font size."
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/theme-options.php:689
+msgid "Heading 1 Line Height"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/theme-options.php:690
+msgid "Input heading 1 line height."
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/theme-options.php:696
+msgid "Heading 2 Font Size"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/theme-options.php:697
+msgid "Input heading 2 font size."
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/theme-options.php:703
+msgid "Heading 2 Line Height"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/theme-options.php:704
+msgid "Input heading 2 line height."
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/theme-options.php:710
+msgid "Heading 3 Font Size"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/theme-options.php:711
+msgid "Input heading 3 font size."
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/theme-options.php:717
+msgid "Heading 3 Line Height"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/theme-options.php:718
+msgid "Input heading 3 line height."
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/theme-options.php:724
+msgid "Heading 4 Font Size"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/theme-options.php:725
+msgid "Input heading 4 font size."
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/theme-options.php:731
+msgid "Heading 4 Line Height"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/theme-options.php:732
+msgid "Input heading 4 line height."
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/theme-options.php:738
+msgid "Heading 5 Font Size"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/theme-options.php:739
+msgid "Input heading 5 font size."
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/theme-options.php:745
+msgid "Heading 5 Line Height"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/theme-options.php:746
+msgid "Input heading 5 line height."
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/theme-options.php:752
+msgid "Heading 6 Font Size"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/theme-options.php:753
+msgid "Input heading 6 font size."
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/theme-options.php:759
+msgid "Heading 6 Line Height"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/theme-options.php:760
+msgid "Input heading 6 line height."
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/theme-options.php:768
+msgid "Body Background Image"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/theme-options.php:769
+msgid "Select image for the body."
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/theme-options.php:775
+msgid "Body Background Color"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/theme-options.php:776
+msgid "Select color for the body."
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/theme-options.php:784
+msgid "Copyrights Background Color"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/theme-options.php:785
+msgid "Select background color for the copyrights section."
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/theme-options.php:792
+msgid "Copyrights Font Color"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/theme-options.php:793
+msgid "Select font color for the copyrights section."
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/theme-options.php:801
+msgid "Call To Action Background Color"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/theme-options.php:802
+msgid "Select background color for the cal to action button on the review single page."
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/theme-options.php:809
+msgid "Call To Action Font Color"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/theme-options.php:810
+msgid "Select font color for the cal to action button on the review single page."
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/theme-options.php:817
+msgid "Call To Action Background Color On Hover"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/theme-options.php:818
+msgid "Select background color for the call to action button on the review single page on hover."
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/theme-options.php:825
+msgid "Call To Action Font Color On Hover"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/theme-options.php:826
+msgid "Select font color for the call to action button on the review single page on hover."
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/theme-options.php:839
+msgid "Register / Recover Page"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/theme-options.php:841
+msgid "Register / Recover page settings."
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/theme-options.php:847
+msgid "Registration Message Subject"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/theme-options.php:848
+msgid "Type registration message subject."
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/theme-options.php:854
+msgid "Registration Message"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/theme-options.php:855
+msgid "Type registration message for confirming the link. Use %LINK% to place the link ."
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/theme-options.php:861
+msgid "Registration Terms & Conditions"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/theme-options.php:862
+msgid "Input terms & conditions for the registration page."
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/theme-options.php:868
+msgid "Sender Name"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/theme-options.php:869
+msgid "Type name from who the registration message is sent."
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/theme-options.php:875
+msgid "Sender Email"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/theme-options.php:876
+msgid "Type email address from who the registration message is sent."
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/theme-options.php:883
+msgid "Recover Password Message Subject"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/theme-options.php:884
+msgid "Type recover password subject"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/theme-options.php:890
+msgid "Recover Password Message"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/theme-options.php:891
+msgid "Type registration message for confirming the link. Use %LINK% to place link to recovery form"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/theme-options.php:902
+msgid "Contact Page"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/theme-options.php:904
+msgid "Contact page settings."
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/theme-options.php:909
+msgid "Contact Email"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/theme-options.php:910
+msgid "Input email where the messages should arive."
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/theme-options.php:916
+msgid "Contact Map"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/theme-options.php:917
+msgid "Input google map link to embed. (Input link from the iframe embed code)"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/theme-options.php:928
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/theme-options.php:935
+msgid "Copyrights"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/theme-options.php:930
+msgid "Copyrights settings."
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/theme-options.php:936
+msgid "Input copyrights text."
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/theme-options.php:942
+msgid "Facebook Link"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/theme-options.php:943
+msgid "Input link to your facebook page"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/theme-options.php:949
+msgid "Twitter Link"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/theme-options.php:950
+msgid "Input link to your twitter page"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/theme-options.php:956
+msgid "Google Link"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/theme-options.php:957
+msgid "Input link to your google page"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/theme-options.php:963
+msgid "Linkedin Link"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/theme-options.php:964
+msgid "Input link to your linkedin page"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/theme-options.php:970
+msgid "Tumblr Link"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/theme-options.php:971
+msgid "Input link to your tumblr page"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/theme-options.php:976
+msgid "Instagram Link"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/theme-options.php:977
+msgid "Input link to your instagram page"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/theme-options.php:982
+msgid "YouTube Link"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/theme-options.php:983
+msgid "Input link to your youtube page"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/theme-options.php:1010
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/theme-options.php:1011
+msgid "Reviews WP"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/widget-loop.php:27
+msgid "0"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/widget-loop.php:27
+msgid "1"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/widget-loop.php:27
+msgid "%"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/widgets.php:6
+msgid "Reviews Recent Posts"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/widgets.php:6
+msgid "Display recent posts"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/widgets.php:16
+msgid "Posts"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/widgets.php:69
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/widgets.php:146
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/widgets.php:211
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/widgets.php:276
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/widgets.php:349
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/widgets.php:491
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/widgets.php:579
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/widgets.php:635
+msgid "Title:"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/widgets.php:72
+msgid "Number of posts to show:"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/widgets.php:82
+msgid "Reviews Recent Comments"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/widgets.php:82
+msgid "Display recent comments"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/widgets.php:89
+msgid "Recent Comments"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/widgets.php:149
+msgid "Number of comments to show:"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/widgets.php:156
+msgid "Reviews Top Author"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/widgets.php:156
+msgid "Adds list of top authors."
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/widgets.php:189
+msgid "Wrote "
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/widgets.php:189
+msgid "reviews"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/widgets.php:215
+msgid "Count:"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/widgets.php:224
+msgid "Reviews Social Follow"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/widgets.php:224
+msgid "Adds list of the social icons."
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/widgets.php:280
+msgid "Facebook:"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/widgets.php:284
+msgid "Twitter:"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/widgets.php:288
+msgid "Google +:"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/widgets.php:292
+msgid "Linkedin:"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/widgets.php:296
+msgid "YouTube:"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/widgets.php:300
+msgid "Pinterest:"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/widgets.php:304
+msgid "Flickr:"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/widgets.php:308
+msgid "Behance:"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/widgets.php:317
+msgid "Reviews Subscribe"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/widgets.php:317
+msgid "Adds subscribe form in the sidebar."
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/widgets.php:331
+msgid "Input email here..."
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/widgets.php:358
+msgid "Add reviews to the widget."
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/widgets.php:495
+msgid "Number:"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/widgets.php:499
+msgid "Order By:"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/widgets.php:502
+msgid "Author Ratings"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/widgets.php:503
+msgid "Users Ratings"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/widgets.php:504
+msgid "Most User Rated"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/widgets.php:506
+msgid "Visits"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/widgets.php:510
+msgid "Filter BY Categories:"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/widgets.php:529
+msgid "Display Reviews Categories."
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/widgets.php:583
+msgid "Categories:"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/widgets.php:601
+msgid "Reviews Banner"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/widgets.php:601
+msgid "Display Reviews Banners."
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/widgets.php:639
+msgid "Links:"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/includes/widgets.php:643
+msgid "Image ID:"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/index.php:40
+msgid "Nothing Found"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/index.php:43
+msgid "Sorry but we could not find anything which resembles you search criteria. Try again."
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/media/media-video.php:17
+msgid "Your browser does not support the video tag."
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/page-tpl_contact.php:35
+msgid "Your name"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/page-tpl_contact.php:39
+msgid "Your email"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/page-tpl_contact.php:43
+msgid "Message subject"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/page-tpl_contact.php:47
+msgid "Telephone number"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/page-tpl_contact.php:51
+msgid "Send Message"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/page-tpl_contact.php:57
+msgid "Your message"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/page-tpl_forgot_password.php:20
+msgid "Forgot password"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/page-tpl_forgot_password.php:24
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/page-tpl_register_login.php:55
+msgid "Email *"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/page-tpl_forgot_password.php:31
+msgid "Recover"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/page-tpl_forgot_password.php:37
+msgid "New Password *"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/page-tpl_forgot_password.php:41
+msgid "New Password Repeat *"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/page-tpl_forgot_password.php:50
+msgid "Change Password"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/page-tpl_register_login.php:39
+msgid "You have successfully confirmed your email address and now you can log in."
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/page-tpl_register_login.php:51
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/page-tpl_register_login.php:101
+msgid "Username *"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/page-tpl_register_login.php:59
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/page-tpl_register_login.php:105
+msgid "Password *"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/page-tpl_register_login.php:63
+msgid "Repeat Password *"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/page-tpl_register_login.php:71
+msgid "Terms & Conditions"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/page-tpl_register_login.php:76
+msgid "I accept terms & conditions"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/page-tpl_register_login.php:97
+msgid "Login"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/page-tpl_register_login.php:111
+msgid "Remember Me"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/page-tpl_register_login.php:115
+msgid "Lost Password?"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/page-tpl_search.php:121
+msgid "Filter By Keyword"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/page-tpl_search.php:125
+msgid "Type term and hit enter..."
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/page-tpl_search.php:136
+msgid "Filter By Category"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/page-tpl_search.php:141
+msgid "All Categories"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/page-tpl_search.php:153
+msgid "Sort Reviews"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/page-tpl_search.php:159
+msgid "Author Ratings (highest first)"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/page-tpl_search.php:160
+msgid "Author Ratings (lowest first)"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/page-tpl_search.php:161
+msgid "User Ratings (highest first)"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/page-tpl_search.php:162
+msgid "User Ratings (lowest first)"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/page-tpl_search.php:163
+msgid "Date (newest first)"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/page-tpl_search.php:164
+msgid "Date (oldest first)"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/page-tpl_search.php:165
+msgid "Title (descending)"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/page-tpl_search.php:166
+msgid "Title (ascending)"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/page-tpl_search.php:167
+msgid "Visits (descending)"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/page-tpl_search.php:168
+msgid "Visits (ascending)"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/page-tpl_search.php:221
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/taxonomy.php:66
+msgid "No reviews found to match your search criteria"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/searchform.php:3
+msgid "Search for..."
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/single-review.php:17
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/single.php:15
+msgid "&raquo;"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/single-review.php:18
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/single.php:16
+msgid "&laquo;"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/single-review.php:99
+msgid "Our Analysis"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/single-review.php:142
+msgid "Pros And Cons"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/single-review.php:185
+msgid "Author's Review Score Breakdown"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/single-review.php:225
+msgid "Users Overall Review Score Breakdown"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/single-review.php:263
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/single.php:69
+msgid "Tags: "
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/single.php:40
+msgid "Creation time"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/single.php:43
+msgid "Number of comments"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/single.php:44
+msgid "0 comments"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/single.php:44
+msgid "1 comment"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/single.php:44
+#, php-format
+msgid "% comments"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/single.php:46
+msgid "Author"
+msgstr ""
+
+#: C:\wamp64\www\reviews\wp-content\themes\reviews/single.php:49
+msgid "Post categories"
+msgstr ""
