@@ -3283,4 +3283,20 @@ ul.ordered-list .reviews-avatar a:last-child{
     margin-bottom: 20px;
 }
 
+.screen-reader-text {
+	display: none;
+}
+
+.display-posts-pagination {
+	margin-bottom: 45px;
+}
+
+.display-posts-pagination a {
+	font-size: 20px;
+}
+
+.display-posts-pagination span {
+	font-size: 20px;
+}
+
 /* END QUICK SEARCH*/
