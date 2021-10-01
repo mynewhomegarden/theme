@@ -1,2 +1,3 @@
-Reviews premium WP blogging theme - by DJMiMi
+Reviews premium WP blogging theme - by DJMiMi
+
 http://themeforest.net/user/DJMiMi
